@@ -1,0 +1,7 @@
+{
+    "username" : "admin",
+    "password" : "test123",
+    "url" : "prod.google.com",
+    "quickLaunch":["Assign Leave", "Leave List", "Timesheets", "Apply Leave", "My Leave", "My Teamsheet"]
+
+}
