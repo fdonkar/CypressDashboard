@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "TeslaModelS": "npx cypress run --record --key 682c751e-32a6-4df4-b68d-7825bcb0bc77 --spec 'cypress/integration/Day3/tesla.spec.js'"
+    "TeslaModelS": "npx cypress run --record --key 682c751e-32a6-4df4-b68d-7825bcb0bc77 --spec 'cypress/integration/Day3/tesla.spec.js'",
+    "gitHubPage" : "npx cypress run --record --key 682c751e-32a6-4df4-b68d-7825bcb0bc77 --spec 'cypress/integration/Day4/GitHub.spec.js'"
   },
   "author": "furkan",
   "license": "ISC",
