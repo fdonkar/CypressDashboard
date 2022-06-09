@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run -b -chrome --headless --spec 'cypress/integration/Day1/radioButtons.spec.js'"
+    "TeslaModelS": "npx cypress run --record --key 682c751e-32a6-4df4-b68d-7825bcb0bc77 --spec 'cypress/integration/Day3/tesla.spec.js'"
   },
   "author": "furkan",
   "license": "ISC",
