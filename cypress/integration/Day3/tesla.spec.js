@@ -13,5 +13,6 @@ describe('Tesla.com automation testing',()=>{
     it('Test one',()=>{
         onModelSPage.urlVerification()
         onModelSPage.privacyVerification()
+        onModelSPage.compareVerification()
     })
 })
